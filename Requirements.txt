@@ -1,0 +1,20 @@
+autogluon
+beautifulsoup4
+collection
+matplotlib
+pillow
+pandas
+numpy
+seaborn
+bokeh
+boto3
+datasets
+ipykernel
+ipython
+Jinja2
+nltk
+pyarrow>=8.0.0  # datasets ile uyumlu sürüm
+requests
+scikit-learn
+scipy
+xgboost
